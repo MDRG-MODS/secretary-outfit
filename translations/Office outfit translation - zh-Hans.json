@@ -1,0 +1,195 @@
+{
+    "TargetModVersion": "1.0.0",
+    "TargetModGuid": {
+        "serializedGuid": "ca60fe7c-425e-4123-9c4e-2ba83f396bcf"
+    },
+    "LocaleKeyCode": "zh-Hans",
+    "ShortNotes": "",
+    "TranslationRows": [
+        {
+            "Key": "Item_0_Name",
+            "DefaultString": "Pencil Skirt",
+            "TranslatedString": "包臀裙"
+        },
+        {
+            "Key": "Item_0_Description",
+            "DefaultString": "Office skirt. Keep low on equiped clothes list",
+            "TranslatedString": "办公裙。在已经装备的衣物列表中保持靠后的位置"
+        },
+        {
+            "Key": "Item_0_Color+0",
+            "DefaultString": "Base color",
+            "TranslatedString": "基础颜色"
+        },
+        {
+            "Key": "Item_0_Color+1",
+            "DefaultString": "Buttons",
+            "TranslatedString": "纽扣"
+        },
+        {
+            "Key": "Item_1_Name",
+            "DefaultString": "Secretary shirt",
+            "TranslatedString": "秘书衬衫"
+        },
+        {
+            "Key": "Item_1_Description",
+            "DefaultString": "Office shirt",
+            "TranslatedString": "办公衬衫"
+        },
+        {
+            "Key": "Item_1_Color+0",
+            "DefaultString": "Base color",
+            "TranslatedString": "基础颜色"
+        },
+        {
+            "Key": "Item_2_Name",
+            "DefaultString": "Left Dress shoe",
+            "TranslatedString": "左正装鞋"
+        },
+        {
+            "Key": "Item_2_Description",
+            "DefaultString": "",
+            "TranslatedString": " "
+        },
+        {
+            "Key": "Item_2_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主颜色"
+        },
+        {
+            "Key": "Item_2_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "阴影/高光反射"
+        },
+        {
+            "Key": "Item_2_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "外轮廓线"
+        },
+        {
+            "Key": "Item_3_Name",
+            "DefaultString": "Right dress shoe",
+            "TranslatedString": "右正装鞋"
+        },
+        {
+            "Key": "Item_3_Description",
+            "DefaultString": "",
+            "TranslatedString": " "
+        },
+        {
+            "Key": "Item_3_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主颜色"
+        },
+        {
+            "Key": "Item_3_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "阴影/高光反射"
+        },
+        {
+            "Key": "Item_3_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "外轮廓线"
+        },
+        {
+            "Key": "Item_4_Name",
+            "DefaultString": "Garter belt",
+            "TranslatedString": "吊袜束腰带"
+        },
+        {
+            "Key": "Item_4_Description",
+            "DefaultString": "For long socks. Keep low on equiped clothes list",
+            "TranslatedString": "为了搭配长袜使用而设计。在已经装备的衣物列表中保持靠后的位置"
+        },
+        {
+            "Key": "Item_4_Color+0",
+            "DefaultString": "Base color",
+            "TranslatedString": "基础颜色"
+        },
+        {
+            "Key": "Item_5_Name",
+            "DefaultString": "Lace bra",
+            "TranslatedString": "蕾丝胸罩"
+        },
+        {
+            "Key": "Item_5_Description",
+            "DefaultString": "Classy Lace bra",
+            "TranslatedString": "优雅的女式蕾丝胸罩，如果容貌的吸引力排第一，那么它排第二"
+        },
+        {
+            "Key": "Item_5_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主颜色"
+        },
+        {
+            "Key": "Item_6_Name",
+            "DefaultString": "Lace Panties",
+            "TranslatedString": "蕾丝内裤"
+        },
+        {
+            "Key": "Item_6_Description",
+            "DefaultString": "Classy Lace panties",
+            "TranslatedString": "优雅的女式蕾丝内裤。——没有副作用的房事药"
+        },
+        {
+            "Key": "Item_6_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主颜色"
+        },
+        {
+            "Key": "Item_7_Name",
+            "DefaultString": "Secretary Uniform",
+            "TranslatedString": "整套秘书制服"
+        },
+        {
+            "Key": "Item_7_Description",
+            "DefaultString": "<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "<color=#00FF00>\n该物品仍在包装中。你需要先拆开包装！</color>"
+        },
+        {
+            "Key": "Item_7_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主颜色"
+        },
+        {
+            "Key": "Item_8_Name",
+            "DefaultString": "Dress shoes ",
+            "TranslatedString": "正装鞋"
+        },
+        {
+            "Key": "Item_8_Description",
+            "DefaultString": "Pair of classy dress shoes<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "一双优雅的正装鞋<color=#00FF00>\n该物品仍在包装中。你需要先拆开包装！</color>"
+        },
+        {
+            "Key": "Item_8_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主颜色"
+        },
+        {
+            "Key": "Item_8_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "阴影/高光反射"
+        },
+        {
+            "Key": "Item_8_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "外轮廓线"
+        },
+        {
+            "Key": "Item_9_Name",
+            "DefaultString": "lace lingerie ",
+            "TranslatedString": "蕾丝内衣"
+        },
+        {
+            "Key": "Item_9_Description",
+            "DefaultString": "Classy lingerie set<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "优雅内衣套装<color=#00FF00>\n该物品仍在包装中。你需要先拆开包装！</color>"
+        },
+        {
+            "Key": "Item_9_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主颜色"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Office outfit",
+    "description": "Put your mod's description here",
+    "modVersion": "1.0.0",
+    "OnGameStart": {
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.97.11",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639241336830472098,
+        "guid": {
+            "serializedGuid": "ca60fe7c-425e-4123-9c4e-2ba83f396bcf"
+        }
+    }
+}

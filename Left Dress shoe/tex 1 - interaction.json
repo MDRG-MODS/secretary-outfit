@@ -1,0 +1,92 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 1 - interaction_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Shoe_L",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 304,
+                        "height": 868
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - interaction_texture0_layer1.png",
+            "Layer": 1,
+            "PackedDrawables": [
+                {
+                    "Name": "Shoe_L",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 304,
+                        "height": 868
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - interaction_texture0_layer2.png",
+            "Layer": 2,
+            "PackedDrawables": [
+                {
+                    "Name": "Shoe_L",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 304,
+                        "height": 868
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - interaction_texture0_layer3.png",
+            "Layer": 3,
+            "PackedDrawables": [
+                {
+                    "Name": "Shoe_L",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 304,
+                        "height": 868
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
