@@ -1,0 +1,26 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 7 - missionary_texture0_layer0.png",
+            "Layer": 25,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 529,
+                        "height": 360
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": true
+        }
+    ]
+}

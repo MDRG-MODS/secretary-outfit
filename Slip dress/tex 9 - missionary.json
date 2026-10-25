@@ -1,0 +1,38 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 9 - missionary_texture0_layer0.png",
+            "Layer": 1,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinLegRFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 391,
+                        "height": 380
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLegLFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 395,
+                        "width": 376,
+                        "height": 374
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": true
+        }
+    ]
+}

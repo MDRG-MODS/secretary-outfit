@@ -1,0 +1,141 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 6 - doggy_texture0_layer0.png",
+            "Layer": 25,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinButt",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 244,
+                        "height": 223
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 238,
+                        "width": 214,
+                        "height": 190
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 229,
+                        "y": 238,
+                        "width": 192,
+                        "height": 186
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 259,
+                        "y": 5,
+                        "width": 160,
+                        "height": 206
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": true
+        },
+        {
+            "TextureName": "tex 6 - doggy_texture0_layer1.png",
+            "Layer": 26,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinButt",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 244,
+                        "height": 223
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 238,
+                        "width": 214,
+                        "height": 190
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 229,
+                        "y": 238,
+                        "width": 192,
+                        "height": 186
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 259,
+                        "y": 5,
+                        "width": 160,
+                        "height": 206
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": true
+        },{
+            "TextureName": "tex 7 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "Panties",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 256,
+                        "height": 240
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": true
+        }
+    ]
+}

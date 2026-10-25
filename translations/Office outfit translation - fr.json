@@ -1,0 +1,195 @@
+{
+    "TargetModVersion": "1.0.0",
+    "TargetModGuid": {
+        "serializedGuid": "ca60fe7c-425e-4123-9c4e-2ba83f396bcf"
+    },
+    "LocaleKeyCode": "fr",
+    "ShortNotes": "",
+    "TranslationRows": [
+        {
+            "Key": "Item_0_Name",
+            "DefaultString": "Pencil Skirt",
+            "TranslatedString": "Jupe crayon"
+        },
+        {
+            "Key": "Item_0_Description",
+            "DefaultString": "Office skirt. Keep low on equiped clothes list",
+            "TranslatedString": "Jupe de bureau. À placer en bas de la liste des vêtements équipés."
+        },
+        {
+            "Key": "Item_0_Color+0",
+            "DefaultString": "Base color",
+            "TranslatedString": "Couleur de base"
+        },
+        {
+            "Key": "Item_0_Color+1",
+            "DefaultString": "Buttons",
+            "TranslatedString": "Boutons"
+        },
+        {
+            "Key": "Item_1_Name",
+            "DefaultString": "Secretary shirt",
+            "TranslatedString": "Chemisier de secrétaire"
+        },
+        {
+            "Key": "Item_1_Description",
+            "DefaultString": "Office shirt",
+            "TranslatedString": "Chemisier de bureau"
+        },
+        {
+            "Key": "Item_1_Color+0",
+            "DefaultString": "Base color",
+            "TranslatedString": "Couleur de base"
+        },
+        {
+            "Key": "Item_2_Name",
+            "DefaultString": "Left Dress shoe",
+            "TranslatedString": "Chaussure habillée gauche"
+        },
+        {
+            "Key": "Item_2_Description",
+            "DefaultString": "",
+            "TranslatedString": ""
+        },
+        {
+            "Key": "Item_2_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Couleur principale"
+        },
+        {
+            "Key": "Item_2_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Ombre/reflet"
+        },
+        {
+            "Key": "Item_2_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Contour"
+        },
+        {
+            "Key": "Item_3_Name",
+            "DefaultString": "Right dress shoe",
+            "TranslatedString": "Chaussure habillée droite"
+        },
+        {
+            "Key": "Item_3_Description",
+            "DefaultString": "",
+            "TranslatedString": ""
+        },
+        {
+            "Key": "Item_3_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Couleur principale"
+        },
+        {
+            "Key": "Item_3_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Ombre/reflet"
+        },
+        {
+            "Key": "Item_3_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Contour"
+        },
+        {
+            "Key": "Item_4_Name",
+            "DefaultString": "Garter belt",
+            "TranslatedString": "Porte-jarretelles"
+        },
+        {
+            "Key": "Item_4_Description",
+            "DefaultString": "For long socks. Keep low on equiped clothes list",
+            "TranslatedString": "Pour bas longs. À placer en bas de la liste des vêtements équipés."
+        },
+        {
+            "Key": "Item_4_Color+0",
+            "DefaultString": "Base color",
+            "TranslatedString": "Couleur de base"
+        },
+        {
+            "Key": "Item_5_Name",
+            "DefaultString": "Lace bra",
+            "TranslatedString": "Soutien-gorge en dentelle"
+        },
+        {
+            "Key": "Item_5_Description",
+            "DefaultString": "Classy Lace bra",
+            "TranslatedString": "Soutien-gorge en dentelle élégant"
+        },
+        {
+            "Key": "Item_5_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Couleur principale"
+        },
+        {
+            "Key": "Item_6_Name",
+            "DefaultString": "Lace Panties",
+            "TranslatedString": "Culotte en dentelle"
+        },
+        {
+            "Key": "Item_6_Description",
+            "DefaultString": "Classy Lace panties",
+            "TranslatedString": "Culotte en dentelle élégante"
+        },
+        {
+            "Key": "Item_6_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Couleur principale"
+        },
+        {
+            "Key": "Item_7_Name",
+            "DefaultString": "Secretary Uniform",
+            "TranslatedString": "Tenue de secrétaire"
+        },
+        {
+            "Key": "Item_7_Description",
+            "DefaultString": "<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "<color=#00FF00>\nCet objet est encore dans son emballage. Vous devez d'abord le déballer !</color>"
+        },
+        {
+            "Key": "Item_7_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Couleur principale"
+        },
+        {
+            "Key": "Item_8_Name",
+            "DefaultString": "Dress shoes ",
+            "TranslatedString": "Chaussures habillées"
+        },
+        {
+            "Key": "Item_8_Description",
+            "DefaultString": "Pair of classy dress shoes<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "Paire de chaussures habillées élégantes<color=#00FF00>\nCet objet est encore dans son emballage. Vous devez d'abord le déballer !</color>"
+        },
+        {
+            "Key": "Item_8_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Couleur principale"
+        },
+        {
+            "Key": "Item_8_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Ombre/reflet"
+        },
+        {
+            "Key": "Item_8_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Contour"
+        },
+        {
+            "Key": "Item_9_Name",
+            "DefaultString": "lace lingerie ",
+            "TranslatedString": "Lingerie en dentelle"
+        },
+        {
+            "Key": "Item_9_Description",
+            "DefaultString": "Classy lingerie set<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "Ensemble de lingerie élégant<color=#00FF00>\nCet objet est encore dans son emballage. Vous devez d'abord le déballer !</color>"
+        },
+        {
+            "Key": "Item_9_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Couleur principale"
+        }
+    ]
+}

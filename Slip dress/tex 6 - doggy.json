@@ -1,0 +1,62 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 6 - doggy_texture0_layer0.png",
+            "Layer": 1,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinButt",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 244,
+                        "height": 223
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinWaistLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 238,
+                        "width": 214,
+                        "height": 190
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 229,
+                        "y": 238,
+                        "width": 192,
+                        "height": 186
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 259,
+                        "y": 5,
+                        "width": 160,
+                        "height": 206
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": true
+        }
+    ]
+}
